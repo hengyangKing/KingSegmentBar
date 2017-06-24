@@ -1,0 +1,24 @@
+PODS:
+  - KingBase (0.0.4):
+    - KingBase/MHTopWindow (= 0.0.4)
+  - KingBase/MHTopWindow (0.0.4)
+  - KingBaseCategory/UIView+ (0.3.3):
+    - KingBase
+  - KingSegmentBar (0.0.1):
+    - KingBaseCategory/UIView+ (~> 0.3.3)
+
+DEPENDENCIES:
+  - KingSegmentBar (from `../`)
+
+EXTERNAL SOURCES:
+  KingSegmentBar:
+    :path: ../
+
+SPEC CHECKSUMS:
+  KingBase: 798276a502bcc0678757d87559203dc8443b2bdd
+  KingBaseCategory: d6b59045c9f0f347ba5b03b1381bc55f95a28ea8
+  KingSegmentBar: 29972b7530e7f1a88b2f63e926950297cd6df02c
+
+PODFILE CHECKSUM: 472dcc3db578c1c1f80accf79373088dc4ead283
+
+COCOAPODS: 1.1.1

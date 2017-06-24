@@ -1,0 +1,27 @@
+{
+  "name": "KingSegmentBar",
+  "version": "0.0.1",
+  "summary": "KingSegmentBar.",
+  "description": "a segment bar for some viewcontroller",
+  "homepage": "https://github.com/hengyangKing/KingSegmentBar",
+  "license": "MIT",
+  "authors": {
+    "hengyangKing": "hengyangKing.yeah.net"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://github.com/hengyangKing/KingSegmentBar.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "KingSegmentBar",
+    "KingSegmentBar/**/*.{h,m}"
+  ],
+  "dependencies": {
+    "KingBaseCategory/UIView+": [
+      "~> 0.3.3"
+    ]
+  }
+}

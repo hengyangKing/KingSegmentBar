@@ -1,0 +1,6 @@
+framework module Pods_KingSegmentBarDemo {
+  umbrella header "Pods-KingSegmentBarDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
